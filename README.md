@@ -16,12 +16,23 @@ Sources)
 
 Estimated amount of total GHG emission reductions
 24,255 CoUs (Annually)
+
+The project activity is registered under Clean Development Mechanism (CDM) project with
+registration number 5921. The crediting period of this project under CDM is 01/04/2012 to
+31/12/2022. PP seeks verification under UCR from 01/04/2022 onwards, i.e., crediting period for
+UCR starts from 01/04/2022. Hence, there is no double counting for the said project. 
+
 _____________
 The purpose of the project activity is to utilize wind energy potential for generation of electricity. The
 project activity replaces anthropogenic emissions of greenhouse gases (GHG’s) into the atmosphere,
 which is estimated to be approximately 24,255 tCO2e per year, by displacing an equivalent amount
 of electricity generation through the operation of existing fuel mix in the grid comprising mainly
 fossil fuel-based power plants and future capacity expansions connected to the grid.
+The project activity involves 26 wind energy generators (WEGs) of Enercon make (800 kW E-53)
+with internal electrical lines connecting the project activity with local evacuation facility.
+The WEGs generates 3-phase power at 400V, which is stepped up to 33 KV. The project activity can
+operate in the frequency range of 47.5–51.5 Hz and in the voltage range of 400 V ± 12.5%
+
 M/s Vish Wind Infrastructure LLP (hereafter referred as “VWILLP”) installed a 20.8 MW of capacity
 wind energy power plant in the state of Andhra Pradesh in India. The project activity involves supply,
 erection, commissioning and operation of 26 machines with rated capacity of 800 KW each. All the
