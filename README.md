@@ -100,3 +100,84 @@ _______
 _____
 2./ 93/ 140 03’ 59.2” 780 03’ 04.9” 
 ____________
+PRIOR HISTORY
+________
+UNFCCC CDM REGISTERED
+
+Project 5921 : Grid Connected Wind Energy Generation at Andhra Pradesh.
+
+Authorized Participants: Vish Wind Infrastrukture LLP
+
+Sectoral scopes	1 : Energy industries (renewable - / non-renewable sources)
+
+Activity Scale	LARGE
+
+Methodologies Used	ACM0002 ver. 12 - Consolidated baseline methodology for grid-connected electricity generation from renewable sources
+
+Registration Date	29 Mar 12 (Date of registration action 19 Jun 12)
+
+Crediting Period	01 Apr 12 - 31 Mar 22 
+
+Requests for Issuance
+and related documentation	
+_______________
+Monitoring report: 01 Apr 2012 - 31 Dec 2012 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 18532
+
+Serial Range: Block start: IN-5-179984912-1-1-0-5921 ---     Block end: IN-5-180003443-1-1-0-5921
+_____________
+
+Monitoring report: 01 Jan 2013 - 31 Dec 2013 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 40401
+
+Serial Range: Block start: IN-5-196742530-2-2-0-5921  ---    Block end: IN-5-196782930-2-2-0-5921
+________________
+
+Monitoring report: 01 Jan 2014 - 05 Apr 2017 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 109059
+
+Serial Range: Block start: IN-5-240965417-2-2-0-5921   ---   Block end: IN-5-241074475-2-2-0-5921
+________
+
+Monitoring report: 06 Apr 2017 - 31 Dec 2017 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 22723
+
+Serial Range: Block start: IN-5-265530572-2-2-0-5921   ----   Block end: IN-5-265553294-2-2-0-5921
+______________
+
+Monitoring report: 01 Jan 2018 - 30 Jun 2020 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 87545
+
+Serial Range: Block start: IN-5-265553295-2-2-0-5921   ---   Block end: IN-5-265640839-2-2-0-5921
+_____________
+
+Monitoring report: 01 Jul 2020 - 31 Dec 2020
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 17278
+
+Serial Range: Block start: IN-5-290474832-2-2-0-5921  ----  Block end: IN-5-290492109-2-2-0-5921
+_______________
+
+Monitoring report: 01 Jan 2021 - 31 May 2021
+
+Issuance request state: Provisional (awaiting guidance from the CMP at CMP 16)
+
+CERs requested from 01 Jan 2021: 9325
+________________
